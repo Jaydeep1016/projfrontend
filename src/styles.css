@@ -7,3 +7,9 @@
 body {
   background: #343a40;
 }
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+}
